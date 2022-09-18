@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusupovanton
 - 👀 I’m interested in Python, Golang, web-apps, fullstack-dev, telegram automated bots, data analysis
-- 🌱 I’m currently learning Go and trying to get into commercial app development
+- 🌱 I’m currently learning Go, Kubernetes, Docker and trying to get into commercial app development
 - 💞️ I’m looking to collaborate on any python code and public libraries
 - 📫 How to reach me @HISLM (telegram)
 
