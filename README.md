@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Go, Kubernetes, Docker and trying to get into commercial app development
 - 💞️ I’m looking to collaborate on any python code and public libraries
 - 📫 How to reach me @HISLM (telegram)
+- Please visit my codeforces https://codeforces.com/profile/polonium123123
+- And Leetcode https://leetcode.com/yusupovanton/
 
 <!---
 yusupovanton/yusupovanton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
