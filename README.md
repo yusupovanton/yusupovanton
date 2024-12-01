@@ -2,7 +2,7 @@
 - 👀 I’m interested in Rust, Golang, web-apps, data analysis, Web3, microservices, distibuted systems, 
 - 🌱 I’m currently learning Rust, ASM, software architecture
 - 💞️ I’m looking to collaborate on any Golang code and public libraries
-- 📫 How to reach me: @adyusupov (telegram, preferred) or mail antonyusupov@outlook.com
+- 📫 How to reach me: @bdtfs (telegram, preferred) or mail antonyusupov@outlook.com
 - Please visit my codeforces https://codeforces.com/profile/polonium123123
 - And Leetcode https://leetcode.com/yusupovanton/
 
